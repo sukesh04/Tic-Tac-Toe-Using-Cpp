@@ -20,9 +20,7 @@ To run the game, follow these steps:
 4. Run the executable generated after compilation.
 5. Play the game by following the instructions displayed in the console.
 
-```shell
-$ g++ tic_tac_toe.cpp -o tic_tac_toe
-$ ./tic_tac_toe
+## Example Gameplay
 Player X's turn.
  | | 
 -----
