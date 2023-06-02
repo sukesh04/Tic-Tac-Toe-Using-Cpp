@@ -21,6 +21,7 @@ To run the game, follow these steps:
 5. Play the game by following the instructions displayed in the console.
 
 ## Example Gameplay
+```
 Player X's turn.
  | | 
 -----
